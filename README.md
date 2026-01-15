@@ -2,13 +2,11 @@
 
 ## Overview
 This repository will contain the capstone project for the course **BINF 7700**.  
-The project will focus on applying bioinformatics concepts, computational analysis,
-and reproducible research practices learned during the course.
+The project will focus on applying bioinformatics concepts, computational analysis, and reproducible research practices learned during the course.
 
 ## Project Status
-Project topic under development
-This repository is being used to plan, organize, and document the development of the
-capstone project.
+Project topic under development.
+This repository is being used to plan, organize, and document the development of the capstone project.
 
 ## Technical skills inventory
 - Programming Languages: Python, R, Bash
